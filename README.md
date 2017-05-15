@@ -20,3 +20,8 @@ Queremos que cualquiera que esté interesado en dar una charla técnica en la co
 
 **Nota:** Los talleres se ofrecerán separados de los eventos de Meetup
 
+
+#### Votaciones para propuestas
+
+Si estás interesado que se de una charla técnica de las propuestas en los issues, vota usando la funcionalidad "Pick your reaction" en los comentarios del issue y seleccionando un +1
+
